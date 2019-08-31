@@ -1,4 +1,4 @@
-## Default config webpack + babel
+## Default config webpack + ts
 ***
 ### _Inside_ _config_
 
