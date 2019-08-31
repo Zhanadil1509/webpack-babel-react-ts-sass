@@ -1,6 +1,6 @@
 ## Default config webpack + babel
 ***
-### _Inside_config
+### _Inside_ _config_
 
 1. React
 2. TypeScript
