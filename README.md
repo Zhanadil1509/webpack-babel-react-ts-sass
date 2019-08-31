@@ -1,6 +1,4 @@
-# webpack-babel-react-ts-sass
-
-## Default config webpack
+## Default config webpack + babel
 ***
 ### _Inside_config
 
