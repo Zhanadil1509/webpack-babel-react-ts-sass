@@ -8,5 +8,7 @@
 ***
 ### _Quick_ _start_
 1. npm i -g npm-check-updates
-2. npm i
-3. npm start
+2. ncu (check updates)
+3. ncu -u (updates dependencies package.json)
+4. npm i
+5. npm start
